@@ -1,9 +1,6 @@
 CANCION CON TODOS - Mercedes Sosa
 Modfied from here: https://www.cifraclub.com/mercedes-sosa/cancion-con-todos/
 
-===
-
-Tono: G
 
 Em                              B7               
 Salgo a caminar por la cintura cósmica del Sur  
@@ -37,28 +34,13 @@ Una raíz de un grito destinado a crecer y a estallar
 E                C      E               C            
 Todas las voces todas, todas las manos todas  
 
- G              Bm      C                  B7    
+ G              D      C                  B7    
 Toda la sangre pue...de ser canción en el viento  
 
   E             C     E            C                  
 Canta conmigo canta hermano americano  
 
- G             Bm       Am                  B7 - E       
+ G             D       Am                  B7 - E       
 Libera tu espera..nza  como un grito en la voz  
-        E                 C                E         C
-En la vooo................. ooz, en la voooo......ooz  
-      E    
-En la voz
-
-
-----
-
-E7 is:
-============
-| | | X | |
-| X | | | |
-| | | | | |
-
-
-
-
+        E                 C                E         C .  E
+En la vooo................. ooz, en la voooo......ooz    em la voz
