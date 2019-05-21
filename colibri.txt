@@ -1,15 +1,16 @@
 
 EL VIAJE DEL COLIBRI - Luis Bermudez (20190427)
 Capo 2
+bass 32 1 32 bass  & bass 32 1 bass 32 1
 
-Em (54)                                  B7 (53)
+Em (54)                    32u            B7 (53)
 Un colibrí ........        entro a mi corazón 
 
-Em (54)                    Am (34)      Em(54)      B7(53)       
-Abrí .......           mi alma en la esquina del silencio 
+Em (54)                32u Am (34)      Em(54)      B7(53)       
+Abrí .......           mi  alma en la esquina del silencio 
 
-Em (54)                     Am(34)   Em           B7                 Em
-El .......           aprovechó y   volando por el bosque    me encontró
+Em (54)              32d    Am(34)   1    32u  Em           B7                 Em
+El .......           aprovechó       y     vo  lando por el bosque    me encontró
 
 
 ----
