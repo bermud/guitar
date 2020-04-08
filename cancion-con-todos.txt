@@ -1,14 +1,14 @@
 CANCION CON TODOS - Mercedes Sosa
 Modfied from here: https://www.cifraclub.com/mercedes-sosa/cancion-con-todos/
 
-
-Em                              B7               
+                              
+Em (42)                          B7(41)               
 Salgo a caminar por la cintura cósmica del Sur  
- E7                                  A              
+ E7 (40)                            A (42)              
 Piso en la región más vegetal del viento y de la luz  
-  Am                                 Em                  
+  Am (42)                            Em (52)                 
 Siento al caminar toda la piel de América en mi piel  
-                        C                   B7         Em
+                        C (53)              B7(41)    Em (42)
 Y anda en mi sangre un río que libera en mi voz su caudal  
 
 ---
