@@ -21,6 +21,7 @@ Samsaaara suavanam ya ya mo ja  ne yram
 Nan janma mrityor tat sat svarupe
 Na  jaaana mitior   chai sat sva rupe
 
+<<<<<<< HEAD
 Suddhosi ...
 
 
@@ -29,30 +30,59 @@ Suddhosi ...
 ---
 
 Em              C          D           Em
+=======
+---
+
+>>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34
 You are forever pure, you are forever true
 
-        D             C         D           Em
 And the dream of this world can never touch you
 
-   D                C           D                Em
 So give up your attachment, and give up your confusion
 
-      D         C               D          Em
 And fly to that space that's beyond all illusion
 
+<<<<<<< HEAD
 
 You are forever pure ...
 
+=======
+>>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34
 ---
 
-Em              C       D         Em
+
 Tú eres siempre puro,  eres verdadero
 
+<<<<<<< HEAD
       D        C        D      Em
+=======
+>>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34
 Y el sueño del mundo nunca te tocara
 
-  D       C         D           Em 
 Deja los apegos, y deja la confusión
 
+<<<<<<< HEAD
      D         C         D    Em
 Y vuela mas allá de toda ilusion
+=======
+Y vuela mas allá de toda ilusion
+
+--
+
+Quechua
+
+Kanmi yuraq, kanmi chekaq,
+
+Kaypacha mosqoy mana tupayna.
+
+Saqey chay watayta, saqey chay tutaychiytay,
+
+Kausay chey chekaqpi jajay karu yupay chaipi.
+
+----------------------------------
+Quechua Translation:
+In white, in truth.
+This reality dreams will not touch you. Leave attachments, leave the darkness. Live this life far away from illusion.
+
+
+>>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34

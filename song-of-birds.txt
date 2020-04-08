@@ -1,5 +1,7 @@
 SONG OF BIRDS (May 2019)
+capo 3
 
+<<<<<<< HEAD
 54321231
 
 
@@ -14,10 +16,21 @@ In the way to school
 
 C                        A-
 Birds are singing to the world
+=======
+A-42      C (53)      A- (42)
+Birds are singing to my girl
+
+D- (40)         G (30)
+In the way to school
+
+A-42      C (53)      A- (42)
+Birds are in singing to the world
+>>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34
 
        D-          G
 In our way through life 
 
+<<<<<<< HEAD
 C                          A-
 Birds are in singing to my soul
         D-     G
@@ -34,6 +47,24 @@ Birds are in singing to my dreams
 Like a huming....bird
 
 C                         A-
+=======
+A-42      C (53)      A- (42)
+Birds are in singing to my soul
+D-             G
+Rythm of the morning sun
+
+A-42      C (53)      A- (42)
+Birds are in singing to my heart
+D-             G
+When I hear this song
+
+A-42      C (53)      A- (42)
+Birds are in singing to my dreams
+D-             G
+Mystical humingbird
+
+A-42      C (53)      A- (42)
+>>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34
 Birds are in singing the love song
               D-       G
 Flying in our hea     rts
