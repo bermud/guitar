@@ -5,6 +5,9 @@ imaTzen Tze Re Rei
 CAPO 5
 542323 1
 
+
+if no capo then sing 30 42
+
 [Verso 1]
 G
 Y es aquí Donde quiero estar  Junto a ti
@@ -21,18 +24,13 @@ De tus ojos  Salen los colores
                        Em 
 Del universo Pedimos todo
 
-
 G
-
 Y esos colores  Son el alimento
                                 Em
 Para la existencia  Que somos todo
         
-
-
 G
 Re Rei Rei...
-
 
 G
 De tu voz  Salen los sonidos
