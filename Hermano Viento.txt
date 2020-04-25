@@ -3,10 +3,10 @@ Hermano Viento - Nov 13, 2019
 Am 43            C 53
 Viento viento hermano viento
 
-G 40   D 32 
+G 40   Am 43 
 tráeme nubes de color
 
-G 40      D 32 
+G 40        Am 43 
 tráeme el aroma de una flor
 
 F 43        C 42        G 40        F 43

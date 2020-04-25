@@ -7,11 +7,19 @@ is full of abundance  (BIS)
 
 
     Am                  G      Am
-30  32   21    32       30     42 
+30  32   21    32       30     32 
 My heart is   full of greatful love
 
-C (42)                53      
+C (30)                     
 I am greaaaaatteful fooooor
+
+G 30            F 43       C 30 
+
+_the sunrise the _sky _above
+
+the _moon the stars the _planets _all
+
+the _earth the tree the smell of spring
 
 ----
 
@@ -23,7 +31,7 @@ the _moon the stars the _planets _all
 
 the _earth the tree the smell of spring
 
-B7                Em
+F#  44           G 45
 the colibri    bri bri  
 
 

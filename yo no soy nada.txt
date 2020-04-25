@@ -5,26 +5,22 @@ Am    C   G
 Yo no soy nada
 
 
-F 43        C 42  F (43)        Em
+F 43        C 42  F (43)        Em w4
 no soy el musico  no soy el poeta 
 
-F 43        C 42         F (43)        G
+F 43        C 42         F (43)        G w4
 que alguna vez        le canto a la  tierra
 
-G 30            F 43
+G 30 w6        F 43
 soy solo un sentir
 
 Em (42)    G(40)  C (53)
 hormiga   de    entrana
 
 
-
-
 Am    C   G
 50    53  52
 Yo no soy nada
-
-
 
 
 F           C         F      Em 

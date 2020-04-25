@@ -5,7 +5,6 @@ Bolivian Folk Song
 https://hijosdelatierra.bandcamp.com/track/los-luceros-de-tus-ojos
 
 
-
 50     42            50
 Am
 Los luceros de tus ojos
@@ -15,9 +14,8 @@ Los luceros de tus ojos
 53       40           42
 C        G           Am
 Son un cielo azul de paz 
-C        G           Am (50)
+C        G           Am (42)
 Son un cielo azul de paz (BIS)
-
 
 Am
 El cóndor con el jilguero 
@@ -29,9 +27,7 @@ En coro cantarán (BIS)
 
 Am
 Los Andes nos protegieron
-
-las espinas de los cactus nos envolvieron
-
+las_espinas_de_los_cactus nos envolvieron
 C          G     Am    
 La cascada despertó
 C           G     Am    
@@ -53,11 +49,11 @@ Y los papachos curando
 
 
 
-Am
+Am 42
 Akuchiwamicha Akuchiwamicha
-C            G    Am 
+C 53        G 40  Am 42
 Pachakuti está llegando
-Am
+Am 42
 Akuchiwarmicha Akuchiwamicha
-C            G    Am 
+C 53        G 40   Am 50
 La tierra está despertando

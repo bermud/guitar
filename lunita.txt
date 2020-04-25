@@ -4,11 +4,7 @@ Am(32 - 42 - 32)
 Lunita, lunita, Mama Quilla
           G(40) 
 De mi corazon
-<<<<<<< HEAD
-    F (43)              E(42) 
-=======
     F (32)              E(31) 
->>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34
 Iluminame con tu gran amor
 
 

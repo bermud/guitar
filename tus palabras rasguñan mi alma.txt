@@ -3,9 +3,10 @@ April 2020 - LB
 
 Am (50)        3          Em (52)
 tus palabras rasguñan mi alma
-G 40   2   C 53 1 Em 52 1 Am 50
+G 40   1   C 53 1 Em 52 1 Am 50
 mi sangre suda sobre la tierra
 
+Am           Em
 ella me abraza
    
 G         C       Em       Am 
@@ -14,7 +15,7 @@ me da el sol, el aire, las playas
 Am             Em
 curando mis heridas
 
-G           C       Em      Am
+G     C             Em      Am
 y me sano cuando perdono y amo
 
 
