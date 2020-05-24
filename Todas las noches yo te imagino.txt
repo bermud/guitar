@@ -1,13 +1,13 @@
 Todas las noches yo te imagino
 2019
 
-G 40             Am 42
+G 30             Am 32
 Todas las noches yo te imagino
-C 30                Am 42
+C 21                Am 32
 entre las Estrellas y mi destino
-G 40             Am 42
+G 30             Am 32
 Todas las noches yo te imagino
-C 30                Am 42
+C 21                Am 32
 entre las Estrellas y mi destino
 
 
@@ -16,15 +16,23 @@ iluminando mi    corazón
      C 42  F 43      G 30
 iluminando mi    corazón
 
-
-Am 42      F 43      G 30
+C 42      F 43      G 30
 amuleto qué cargo En mi
 Am 32       G 30      Am 42
-pensamiento amor y sentimiento BIS
+pensamiento amor y sentimiento BI
 
-
-C 42    F 43    Am 42
+C 53    F 43    Am 42
+haci    a      ti
+8-p
+C 53    F 43    G 30   F Am 
 haci    a      ti
 
-C 42    F 43    G 20
-haci    a      ti
+
+G 30             Am 32
+Todas las noches yo te imagino
+C 21                Am 30
+luna de plata en el infinito
+G 30             Am 32
+besando mi alma 
+C 21                Am 30
+entre las Estrellas y mi destino
