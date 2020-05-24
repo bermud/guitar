@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"desierto"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"rst",
+				"Set Syntax: reStructuredText"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"cd /Users/luisbermudez/git/ogc_school/umbc/2020-GES771/slides/exam1/",
+			"run Terminus",
+			"run Terminus: Open Default Shell in Tab",
+			"Terminus",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/luisbermudez/Documents/github/guitar/Un flor aparece de la nada.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Everybody has a light.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Mi Forma de Respirar.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Aho-Mitakuye-Oyasin.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Vuela que esperas.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Todas las noches yo te imagino.txt",
+		"/Users/luisbermudez/Library/Application Support/Sublime Text 3/Packages/User/guitar.sublime-syntax",
+		"/Users/luisbermudez/Documents/github/guitar/lilypond/Fuego Purificame2.ly",
+		"/Users/luisbermudez/Documents/github/guitar/Yemanja rainha das aguas.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Madrecita Tierra - Devuelvenos la Libertad.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Hermano Viento.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Si te sientas en silencio.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Linda_Sereia.txt",
+		"/Users/luisbermudez/Documents/github/guitar/fuego_purificame.txt",
+		"/Users/luisbermudez/Documents/github/guitar/La Claridad de un Cielo Azul.txt",
+		"/Users/luisbermudez/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
+		"/Users/luisbermudez/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/luisbermudez/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/luisbermudez/Documents/github/guitar/I-am-grateful.txt",
+		"/Users/luisbermudez/Documents/github/guitar/iemanja-rainha-das-ondas.txt",
+		"/Users/luisbermudez/Documents/github/guitar/SolticeMassYear.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Esta vida es como un arbol.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Mensaje de una hoja de la floresta.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Kunkawaki Qwari Kujay.txt",
+		"/Users/luisbermudez/Documents/github/guitar/dios-esta-en-mi.txt",
+		"/Users/luisbermudez/Documents/github/guitar/heart-explosion.txt",
+		"/Users/luisbermudez/Documents/github/guitar/suspiro de oshun.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Todas las noches yo te imaginot.xt",
+		"/Users/luisbermudez/Documents/github/guitar/hoponopono.txt",
+		"/Users/luisbermudez/Documents/github/guitar/la-vida-es-una-danza.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Claridad de un Cielo Azul.txt",
+		"/Users/luisbermudez/Documents/github/guitar/pachamamita",
+		"/Users/luisbermudez/Documents/github/guitar/tus palabras rasguñan mi alma.txt",
+		"/Users/luisbermudez/Documents/github/guitar/yo no soy nada.txt",
+		"/Users/luisbermudez/Documents/github/guitar/suspiro de oshun",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Déjame-mirarte.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/mool_mantra.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Madrecita Tierra - Devuelvenos la Libertad.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Amor-y-Unidad.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Los-luceros-de-tus-ojos.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/colombia-tierra-querida.txt",
+		"/Users/luisbermudez/Documents/github/guitar/Tzen-Tze-Re-Rei.txt",
+		"/Users/luisbermudez/Documents/github/guitar/lunita.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/yo no soy nada.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/tus palabras rasguñan mi alma.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Me Haces falta.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Si te sientas en silencio.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/A-li-kuni.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Vuela que esperas.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Canta-Kuirikinkinkin.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/cancion-con-todos.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/la-ventana.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/dios-esta-en-mi.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/lunita.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/sing-to-me.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/la-vida-es-una-danza.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Aho-Mitakuye-Oyasin.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/song-of-birds.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/gracias-padres.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/heart-explosion.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/cancion-a-la-vida.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Danos-un-corazon.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Shalom-Alechem.txt",
+		"/Users/luisbermudez/Dropbox (Personal)/github/guitar/Tzen-Tze-Re-Rei.txt",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/slides/class1/build.sh",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/slides/class1/cartographic_modeling_class_1-hw1-gasstation.pdf",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES771/slides/exam1/exam1.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES771/slides/exam1/exam.txt",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/slides/class2/c2.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/slides/class2/hw2.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/vars.sh",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/slides/class1/hw1-gasstation.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES771/slides/06-twitter-aws/class.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES671/class11_old-advance-geo-queries/class11a.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/slides/class1/c1-part3-concepts.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/slides/class1/c1-part4-process.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES671/class12-happ/class12.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES671/class13-security/class13.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES671/class14-geoserver/class14.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES771/slides/class01-intro/q1.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES771/slides/class01-intro/q2.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES771/slides/class01-intro/q3.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES771/slides/class01-intro/q4.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES773/slides/class1/c1-part3-concepts.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES773/slides/class1/c1-part4-process.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2017-GES773/slides/class1/class1 old.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES671/class11_2018/class11a.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES671/class11_old-advance-geo-queries/class11a.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES671/class12-happ/happiness-index.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES671/class13-security/class13.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES671/class14-geoserver/class14.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES771/slides/class01-intro/q1.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES771/slides/class01-intro/q2.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES771/slides/class01-intro/q3.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2018-GES771/slides/class01-intro/q4.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2019-GES671-Fall/class12-happi/happiness-index.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2019-GES671-Fall/class14-geoserver/class14.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/2020-GES773/slides/class1/class1 old.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671/201408/class10/class10.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671/201408/class11/class11.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671/201408/class12/Class12-introwebservices.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671/201408/class12/class12.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671/201408/class8/class8.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671/201408/class8/class8geog.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671/201408/class9/class9.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671/201408/class9/class9select.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-201508/class1/class1-intro-db.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-201508/class10/class10.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-201508/class11/class11.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-201508/class12/class12.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-201508/class8/class8.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-201508/class8/class8geog.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-201508/class9/class9.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-2016-Fall/class10/class10-geog.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-2016-Fall/class10/class10-geomfunctions.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-2016-Fall/class11/class11.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-2016-Fall/class12/class12.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-2016-Fall/class13-security/class13.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges671-2016-Fall/class14-geoserver/class14.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges771-2015/spring2015/slides/class1/class1.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges771-2015/spring2015/slides/class2/class2.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges771-2015/spring2015/slides/class3/class3.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges771-2015/spring2015/slides/class3/classwork3.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges771-2015/spring2015/slides/class4/class4.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges771-2015/spring2015/slides/class5/geojosn.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges771-2016/slides/class01/class1.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges773/201410/class1/class1.rst",
+		"/Users/luisbermudez/git/ogc_school/umbc/ges773-2016/slides/class1/c1-concepts.rst"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/Ant.sublime-build",
+	"project": "The Song of the Unicorn.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
