@@ -6,11 +6,15 @@ tus palabras rasguñan mi alma
 G 40   1   C 53 1 Em 52 1 Am 50
 mi sangre suda sobre la tierra  (BIS)
 
-Dm 40         Am 42
+Dm 40         G (52)
 Saname saname pachanama
 
-F 43         C 42           G 40
+F 53         E7 52    Am 50
 Quitame las asperezas de mi alma 
+
+
+
+
 
 Em  52                        C 53
 Como al aire se limpia con el agua

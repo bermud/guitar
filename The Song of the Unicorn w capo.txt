@@ -56,13 +56,12 @@ sliding down a rainbow
 
 G 63   Em7 51          G 40
 Oooooopen up your         wings
-Am 42              G 40
+Am 32              G 30
 Fly_me  across the sky
-F 53                  G 52
+F 43                  Em 42
 Drop_me in_a magic    world
-
-63   53    62       63
-G7   G*    A7#
+F          G         C
+53   53    52       53
 With no begining and end
 
 G* with finger in 53

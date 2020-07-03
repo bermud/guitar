@@ -8,7 +8,7 @@ Yo no soy nada
 F 43        C 42  F (43)        Em w4
 no soy el musico  no soy el poeta 
 
-F 43        C 42         F (43)        G w4
+F 43        C 42         F (43)        Em w4
 que alguna vez        le canto a la  tierra
 
 G 30 w6        F 43
@@ -26,7 +26,7 @@ Yo no soy nada
 F           C         F      Em 
 no soy el cuerpo, no soy la mente
 
-F      C    F     G 
+F      C    F     Em 
 lo repito como un mantra
 
 G 30            F 43

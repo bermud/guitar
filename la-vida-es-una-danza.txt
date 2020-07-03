@@ -7,7 +7,7 @@ Yo veo por mi ventana
 el despertar del sol
     Am (50)    G(52)
 yo veo en la mañana
-         C(53)      G(52x5/30x6)
+         C(53)      G(40)
 un nuevo dia    aparecer
 
 por que  <change of rhythm>
@@ -36,7 +36,7 @@ Observa lo que duele
 Iluminalo y dejalo ir
     Am (50)  G(52)
 Perdona, perdonate
-    C(53/34)      G(52/30)
+    C(53/34)      G(52/40)
 Y comienza a bailar (BIS)
 
 por que  <change of rhythm>

@@ -11,8 +11,9 @@ C 21                Am 32
 entre las Estrellas y mi destino
 
 
-     C 42  F 43      Am 42
-iluminando mi    corazón
+     C 42  F 43  Am 42   G 40  Am 42 
+
+iluminando mi    co      ra     zón
      C 42  F 43      G 30
 iluminando mi    corazón
 
@@ -24,15 +25,26 @@ pensamiento amor y sentimiento BI
 C 53    F 43    Am 42
 haci    a      ti
 8-p
-C 53    F 43    G 30   F Am 
-haci    a      ti
+C 53    F 43    G 30   F 43   Am  42
+haci    a      ti      hu hu  hu hu
 
 
 G 30             Am 32
 Todas las noches yo te imagino
-C 21                Am 30
+C 21                Am 32
 luna de plata en el infinito
 G 30             Am 32
-besando mi alma 
+Todas las noches yo te imagino
+C 21                Am 32
+luna de plata en el infinito
+
+ilum ...
+
+TBD
+
+G 30             Am 32
+Todas las noches yo te imagino
+G 30             Am 32
+besando mi alma  
 C 21                Am 30
 entre las Estrellas y mi destino

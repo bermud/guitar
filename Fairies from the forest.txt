@@ -1,31 +1,34 @@
 The Fairies from the forest
 
-
+G                    Am
 G   G  A    C     D  E  E
 The Fairies from the Forest
+
+C               Am
 G    G  G  G  A  A 
 Came to me in my dreams
+
+C                 D (32,23,15)
 G    G     G   G  A 
 Whispered from a tree
 
-C          D
+G          Am
 Go the the creek
-C          D
+C          Am 
 Close your eyes
 
-
-C     A        G
+C            Am
 And fly with me 
-G   E          D       
+C             D      
 And Dance with me 
 
 
-E   E  E    G
+G           Am
 Across the stars 
-A     A   A      G  
+G           Am
 Where the angels are
 
-G     F    F   E     D   C
+       C      Am      G       C
 Where love and magic are just one
 
 
