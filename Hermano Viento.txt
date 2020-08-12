@@ -1,6 +1,14 @@
 Hermano Viento - Nov 13, 2019
+4/4 120
 
-Am 43            C 53
+
+F 43        C 42        G 40        F 43
+chucu chucu chaca chaca chucu chucu cha
+ 
+F C D7 G7sus4 
+
+
+Am 42            C 42 (con B al bajo)
 Viento viento hermano viento
 
 G 40   Am 43 
@@ -8,6 +16,11 @@ tráeme nubes de color
 
 G 40        Am 43 
 tráeme el aroma de una flor
+
+F 43        C 42        G 40        F 43
+chucu chucu chaca chaca chucu chucu cha
+
+ritmo
 
 F 43        C 42        G 40        F 43
 chucu chucu chaca chaca chucu chucu cha
@@ -25,7 +38,25 @@ una flor en el corazón
 Dm
 un pensamiento de Unión
 G 40          C 53
-semillas de amor
+semillas de amor 
+
+F 43        C 42        G 40        F 43
+chucu chucu chaca chaca chucu chucu cha
+
+F           C             Em7   Am (53 y 42)
+chucu chucu chaca chaca  chucu chucu  
+
+arpegio
+F C D7 G7sus4 
+
+Am 43            C 53 (con B al bajo)
+Viento viento hermano viento
+
+G 40   Am 43 
+tráeme la brisa del mar
+
+G 40        Am 43 
+tráeme la flor de la esperanza
 
 F 43        C 42        G 40        F 43
 chucu chucu chaca chaca chucu chucu cha

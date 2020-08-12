@@ -1,10 +1,11 @@
 SING TO ME (Luis Bermudez 20190428)
 
-<<<<<<< HEAD
-Right hand: down slowly (no up stroke) - do three stokes between sentences
-
-
-CAPO 3
+maybe
+CAPO 4
+Am (50)   G (63)
+Am (50)   G (63)
+Dm (40)   Em (42)
+Dm (40)   Am (50)
 
 Am (50)                                G (63)
 Sing to me       with the flute of the stars 
@@ -20,28 +21,6 @@ Kiss the moon    and hug the sun
 
 ----
 
-
-
-G (30)                                  D (40)
-=======
-G (52)                                  D (50)
->>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34
-Sing to me       with the flute of the stars 
-
-         G(52)                       D (50)
-Make me dance      universal trance
-
-<<<<<<< HEAD
-Dm (23)/32                  Am (21)42
-=======
-Dm (32)                    Am (40)
->>>>>>> a862fd79669fa00d8ba5e4f7ec58f66e7217bd34
-Play guitar       with everyone
-
-Dm (32).                      Am (50)
-Kiss the moon    and hug the sun
-
-----
 
 G (30)                                  D (40)
 Sing to me         with the flute of the earth 
